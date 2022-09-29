@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="2" time="35.116">
+    <testcase classname="COWIN WEBSITE FOR VACCINATION" name="Search For State and District" time="21.146">
+        <system-out><![CDATA[Given user Launch The Url...................................................passed
+When enter The State and District...........................................passed
+Then click the Search button................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="COWIN WEBSITE FOR VACCINATION" name="Enter The Vaccine Details" time="13.82">
+        <system-out><![CDATA[When click On Details Of Vaccine............................................passed
+And validate The Details Of Vaccine.........................................passed
+And print The Total No Of Center Displayed..................................passed
+Then validate With Screenshot...............................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
